@@ -45,14 +45,14 @@ section article {
 }
 
 .header-card.batman {
-    background-image: url(/img/c1-background.jpg);
+    background-image: url(img/c1-background.jpg);
     background-size: cover;
     margin:0;
     padding: 0;
 }
 
 .header-card.harley {
-    background-image: url(/img/c2-background.jpg);
+    background-image: url(img/c2-background.jpg);
     background-size: cover;
 }
 
