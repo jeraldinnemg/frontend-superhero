@@ -26,7 +26,7 @@ scroll on the page.
 
 ### Links
 
-- [Live demo](https://github.com/jeraldinnemg/frontend-superhero.git)
+- [Live demo](https://jeraldinnemg.github.io/frontend-superhero/)
 
 ## My process
 
